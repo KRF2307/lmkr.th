@@ -1,0 +1,11 @@
+# Exported from Render on 2024-08-13T21:46:33Z
+services:
+- type: web
+  name: lakmeuangkanthararom
+  runtime: node
+  repo: https://github.com/KRF2307/Lakmeuang-Kanthararom
+  plan: free
+  region: oregon
+  buildCommand: yarn
+  startCommand: "0"
+version: "1"
