@@ -1,9 +1,9 @@
 # Exported from Render on 2024-08-13T21:46:33Z
 services:
 - type: web
-  name: lakmeuangkanthararom
+  name: lmkr.th
   runtime: node
-  repo: https://github.com/KRF2307/Lakmeuang-Kanthararom
+  repo: https://github.com/KRF2307/lmkr.th
   plan: free
   region: oregon
   buildCommand: yarn
