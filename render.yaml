@@ -1,7 +1,7 @@
 # Exported from Render on 2024-08-13T22:01:55Z
 services:
 - type: web
-  name: lmkr.th-2
+  name: lmkr.th-3
   runtime: static
   repo: https://github.com/KRF2307/lmkr.th
   staticPublishPath: "0"
